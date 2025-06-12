@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   header: {
     flexDirection: 'row',
     alignItems: 'center',
-    padding: 10,
+    paddingVertical: 10,
     justifyContent: 'space-between',
   },
   menuButton: {
